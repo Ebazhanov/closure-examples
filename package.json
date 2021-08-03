@@ -1,0 +1,11 @@
+{
+  "name": "design-patterns",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Ebazhanov/design-patterns.git",
+  "author": "Evgenii Bazhanov <evg.bazhanov@yahoo.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "prettier": "^2.3.2"
+  }
+}
